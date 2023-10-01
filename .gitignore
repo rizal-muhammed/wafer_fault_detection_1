@@ -169,6 +169,7 @@ code/PredictionArchivedBadData
 
 # data files
 *.csv
+notebooks/
 
 *.vscode
 *.DS_Store
