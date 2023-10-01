@@ -170,5 +170,5 @@ code/PredictionArchivedBadData
 # data files
 *.csv
 
-.vscode
-.DS_Store
+*.vscode
+*.DS_Store
