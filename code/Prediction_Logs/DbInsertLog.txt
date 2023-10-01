@@ -1,0 +1,34 @@
+2023-09-27 / 13:47:28 : Enetered 'insert_into_table_good_data' method in 'DBOperations' class.
+2023-09-27 / 13:47:28 : file wafer_28012020_051011.csv loaded successfully
+2023-09-27 / 13:47:28 : file wafer_16012020_051629.csv loaded successfully
+2023-09-27 / 13:47:28 : file wafer_31012020_090811.csv loaded successfully
+2023-09-27 / 13:47:29 : file wafer_23012020_011008.csv loaded successfully
+2023-09-27 / 13:47:29 : file wafer_23012020_041211.csv loaded successfully
+2023-09-27 / 13:47:29 : file wafer_21012020_080913.csv loaded successfully
+2023-09-27 / 13:47:30 : file wafer_29012020_060756.csv loaded successfully
+2023-09-27 / 13:47:30 : file wafer_07012020_041011.csv loaded successfully
+2023-09-27 / 13:47:30 : file wafer_28042020_031911.csv loaded successfully
+2023-09-27 / 13:47:30 : file wafer_28012020_090817.csv loaded successfully
+2023-09-27 / 13:47:31 : file wafer_20022020_090716.csv loaded successfully
+2023-09-27 / 13:47:31 : file wafer_22022020_041119.csv loaded successfully
+2023-09-27 / 13:47:31 : file wafer_20012020_090819.csv loaded successfully
+2023-09-27 / 13:47:32 : file wafer_29012020_050617.csv loaded successfully
+2023-09-27 / 13:47:32 : file wafer_13012020_090817.csv loaded successfully
+2023-09-27 / 13:47:32 : file wafer_27012020_080911.csv loaded successfully
+2023-09-27 / 14:20:19 : Enetered 'insert_into_table_good_data' method in 'DBOperations' class.
+2023-09-27 / 14:20:19 : file wafer_28012020_051011.csv loaded successfully
+2023-09-27 / 14:20:19 : file wafer_16012020_051629.csv loaded successfully
+2023-09-27 / 14:20:20 : file wafer_31012020_090811.csv loaded successfully
+2023-09-27 / 14:20:20 : file wafer_23012020_011008.csv loaded successfully
+2023-09-27 / 14:20:20 : file wafer_23012020_041211.csv loaded successfully
+2023-09-27 / 14:20:20 : file wafer_21012020_080913.csv loaded successfully
+2023-09-27 / 14:20:20 : file wafer_29012020_060756.csv loaded successfully
+2023-09-27 / 14:20:21 : file wafer_07012020_041011.csv loaded successfully
+2023-09-27 / 14:20:21 : file wafer_28042020_031911.csv loaded successfully
+2023-09-27 / 14:20:21 : file wafer_28012020_090817.csv loaded successfully
+2023-09-27 / 14:20:21 : file wafer_20022020_090716.csv loaded successfully
+2023-09-27 / 14:20:21 : file wafer_22022020_041119.csv loaded successfully
+2023-09-27 / 14:20:21 : file wafer_20012020_090819.csv loaded successfully
+2023-09-27 / 14:20:22 : file wafer_29012020_050617.csv loaded successfully
+2023-09-27 / 14:20:22 : file wafer_13012020_090817.csv loaded successfully
+2023-09-27 / 14:20:22 : file wafer_27012020_080911.csv loaded successfully

@@ -1,0 +1,8 @@
+2023-09-27 / 13:47:20 : Entered 'validate_missing_values_in_whole_column' method in 'PredictionDataValidation' class.
+2023-09-27 / 13:47:20 : Missing values for whole columns, is started !
+2023-09-27 / 13:47:25 : Validation for Missing values for whole columns is completed!. 
+            Exiting 'validate_missing_values_in_whole_column' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:15 : Entered 'validate_missing_values_in_whole_column' method in 'PredictionDataValidation' class.
+2023-09-27 / 14:20:15 : Missing values for whole columns, is started !
+2023-09-27 / 14:20:18 : Validation for Missing values for whole columns is completed!. 
+            Exiting 'validate_missing_values_in_whole_column' method of 'PredictionDataValidation' class.

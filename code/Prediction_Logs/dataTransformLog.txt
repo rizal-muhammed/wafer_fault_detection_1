@@ -1,0 +1,8 @@
+2023-09-27 / 13:47:25 : Entered 'replace_missing_values_with_null' method of 'DataTransform' class.
+            File transformation started...
+2023-09-27 / 13:47:25 : File 'wafer_28012020_051011.csv' transformed successfully!
+2023-09-27 / 13:47:26 : Data transformation failed. Exception message : I/O operation on closed file.
+2023-09-27 / 14:20:18 : Entered 'replace_missing_values_with_null' method of 'DataTransform' class.
+            File transformation started...
+2023-09-27 / 14:20:18 : File 'wafer_28012020_051011.csv' transformed successfully!
+2023-09-27 / 14:20:19 : Data transformation failed. Exception message : I/O operation on closed file.

@@ -1,0 +1,16 @@
+2023-09-27 / 13:47:19 : LengthOfDateStampInFile : 8 	 
+            LengthOfTimeStampInFile : 6 	
+            NumberofColumns : 591
+            
+2023-09-27 / 14:20:06 : LengthOfDateStampInFile : 8 	 
+            LengthOfTimeStampInFile : 6 	
+            NumberofColumns : 591
+            
+2023-09-27 / 14:20:12 : LengthOfDateStampInFile : 8 	 
+            LengthOfTimeStampInFile : 6 	
+            NumberofColumns : 591
+            
+2023-09-27 / 14:20:14 : LengthOfDateStampInFile : 8 	 
+            LengthOfTimeStampInFile : 6 	
+            NumberofColumns : 591
+            

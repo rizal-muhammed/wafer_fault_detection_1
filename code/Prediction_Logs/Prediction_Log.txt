@@ -1,0 +1,108 @@
+2023-09-27 / 13:47:19 : Start of validation on files for prediction...
+2023-09-27 / 13:47:25 : Raw data validation completed!
+2023-09-27 / 13:47:25 : Starting data transformation...
+2023-09-27 / 13:47:26 : Data transformation is completed!
+2023-09-27 / 13:47:26 : Creating Prediction_Database and tables on the basis of given schema...
+2023-09-27 / 13:47:28 : Database table creation is completed!
+2023-09-27 / 13:47:28 : Insertion of data into db table is started...
+2023-09-27 / 13:47:32 : Insertion of data into db table is completed!
+2023-09-27 / 13:47:32 : Deletion of Good Data folder is started...
+2023-09-27 / 13:47:32 : Good Data folder deletion completed!
+2023-09-27 / 13:47:32 : Moving bad files to archive bad, and deleting Bad Data folder started...
+2023-09-27 / 13:47:32 : Bad files moved to archive, and Bad Raw folder deletion is completed!
+2023-09-27 / 13:47:32 : Validation operation is completed!!!
+2023-09-27 / 13:47:32 : Extracting csv file from table started...
+2023-09-27 / 13:47:33 : Exporting good data to csv from db table is completed!
+2023-09-27 / 13:47:33 : Start of prediction...
+2023-09-27 / 13:47:33 : Entered 'get_data' method of 'DataGetterPred' class.
+2023-09-27 / 13:47:34 : Data Load is successful. 
+            Exited the 'get_data' method of 'DataGetterPred' class
+2023-09-27 / 13:47:34 : Entered the remove_columns method in PreProcessing class.
+2023-09-27 / 13:47:34 : column removal is successful, exiting the method remove_columns in PreProcessing class
+2023-09-27 / 13:47:34 : Entered the is_null_present method in PreProcessor class
+2023-09-27 / 13:47:34 : Finding missing values if successful. Data written to null_value_counts.csv file in preprocessing_data folder.
+            Exiting is_null_present method from PreProcessor class
+2023-09-27 / 13:47:34 : Entered the 'impute_missing_values' method of the 'PreProcessor' class
+2023-09-27 / 13:47:42 : Impuring missing values is successful.
+            Exited impute_missing_values method on PreProcessor class
+2023-09-27 / 13:47:42 : Entered the remove_columns method in PreProcessing class.
+2023-09-27 / 13:47:42 : column removal is successful, exiting the method remove_columns in PreProcessing class
+2023-09-27 / 13:47:42 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 13:47:42 : Model file KMeans loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : Enetered the 'find_correct_model_file' method of the 'FileOperations' class.
+2023-09-27 / 13:47:42 : finding correct model file is successfult.
+            Exited the 'find_correct_model_file' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 13:47:42 : Model file RandomForest_0 loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : Enetered the 'find_correct_model_file' method of the 'FileOperations' class.
+2023-09-27 / 13:47:42 : finding correct model file is successfult.
+            Exited the 'find_correct_model_file' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 13:47:42 : Model file RandomForest_2 loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : Enetered the 'find_correct_model_file' method of the 'FileOperations' class.
+2023-09-27 / 13:47:42 : finding correct model file is successfult.
+            Exited the 'find_correct_model_file' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 13:47:42 : Model file RandomForest_1 loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 13:47:42 : End of prediction
+2023-09-27 / 14:20:06 : Start of validation on files for prediction...
+2023-09-27 / 14:20:06 : Exception occured during prediction validation.
+            Exception message : [Errno 2] No such file or directory: ''
+2023-09-27 / 14:20:12 : Start of validation on files for prediction...
+2023-09-27 / 14:20:12 : Exception occured during prediction validation.
+            Exception message : [Errno 2] No such file or directory: ''
+2023-09-27 / 14:20:14 : Start of validation on files for prediction...
+2023-09-27 / 14:20:18 : Raw data validation completed!
+2023-09-27 / 14:20:18 : Starting data transformation...
+2023-09-27 / 14:20:19 : Data transformation is completed!
+2023-09-27 / 14:20:19 : Creating Prediction_Database and tables on the basis of given schema...
+2023-09-27 / 14:20:19 : Database table creation is completed!
+2023-09-27 / 14:20:19 : Insertion of data into db table is started...
+2023-09-27 / 14:20:22 : Insertion of data into db table is completed!
+2023-09-27 / 14:20:22 : Deletion of Good Data folder is started...
+2023-09-27 / 14:20:22 : Good Data folder deletion completed!
+2023-09-27 / 14:20:22 : Moving bad files to archive bad, and deleting Bad Data folder started...
+2023-09-27 / 14:20:22 : Bad files moved to archive, and Bad Raw folder deletion is completed!
+2023-09-27 / 14:20:22 : Validation operation is completed!!!
+2023-09-27 / 14:20:22 : Extracting csv file from table started...
+2023-09-27 / 14:20:25 : Exporting good data to csv from db table is completed!
+2023-09-27 / 14:20:25 : Start of prediction...
+2023-09-27 / 14:20:25 : Entered 'get_data' method of 'DataGetterPred' class.
+2023-09-27 / 14:20:25 : Data Load is successful. 
+            Exited the 'get_data' method of 'DataGetterPred' class
+2023-09-27 / 14:20:25 : Entered the remove_columns method in PreProcessing class.
+2023-09-27 / 14:20:25 : column removal is successful, exiting the method remove_columns in PreProcessing class
+2023-09-27 / 14:20:25 : Entered the is_null_present method in PreProcessor class
+2023-09-27 / 14:20:25 : Finding missing values if successful. Data written to null_value_counts.csv file in preprocessing_data folder.
+            Exiting is_null_present method from PreProcessor class
+2023-09-27 / 14:20:25 : Entered the 'impute_missing_values' method of the 'PreProcessor' class
+2023-09-27 / 14:20:47 : Impuring missing values is successful.
+            Exited impute_missing_values method on PreProcessor class
+2023-09-27 / 14:20:47 : Entered the remove_columns method in PreProcessing class.
+2023-09-27 / 14:20:47 : column removal is successful, exiting the method remove_columns in PreProcessing class
+2023-09-27 / 14:20:47 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 14:20:47 : Model file KMeans loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : Enetered the 'find_correct_model_file' method of the 'FileOperations' class.
+2023-09-27 / 14:20:47 : finding correct model file is successfult.
+            Exited the 'find_correct_model_file' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 14:20:47 : Model file RandomForest_0 loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : Enetered the 'find_correct_model_file' method of the 'FileOperations' class.
+2023-09-27 / 14:20:47 : finding correct model file is successfult.
+            Exited the 'find_correct_model_file' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 14:20:47 : Model file RandomForest_2 loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : Enetered the 'find_correct_model_file' method of the 'FileOperations' class.
+2023-09-27 / 14:20:47 : finding correct model file is successfult.
+            Exited the 'find_correct_model_file' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : Entered the 'load_model' method of the 'FileOperation' class.
+2023-09-27 / 14:20:47 : Model file RandomForest_1 loaded successfully. 
+                Exited 'load_model' method of 'FileOperations' class.
+2023-09-27 / 14:20:47 : End of prediction

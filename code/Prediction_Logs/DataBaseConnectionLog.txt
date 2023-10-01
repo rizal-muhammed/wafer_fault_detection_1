@@ -1,0 +1,16 @@
+2023-09-27 / 13:47:26 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 13:47:26 : Opened Prediction database successfully.
+2023-09-27 / 13:47:26 : Entered 'create_table_db' method of 'DBOperations' class.
+2023-09-27 / 13:47:28 : Closed Prediction database successfully
+2023-09-27 / 13:47:28 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 13:47:28 : Opened Prediction database successfully.
+2023-09-27 / 13:47:32 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 13:47:32 : Opened Prediction database successfully.
+2023-09-27 / 14:20:19 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 14:20:19 : Opened Prediction database successfully.
+2023-09-27 / 14:20:19 : Entered 'create_table_db' method of 'DBOperations' class.
+2023-09-27 / 14:20:19 : Database Prediction closed successfully
+2023-09-27 / 14:20:19 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 14:20:19 : Opened Prediction database successfully.
+2023-09-27 / 14:20:22 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 14:20:22 : Opened Prediction database successfully.

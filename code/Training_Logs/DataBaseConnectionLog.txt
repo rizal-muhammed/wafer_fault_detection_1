@@ -1,0 +1,8 @@
+2023-09-27 / 13:40:00 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 13:40:00 : Opened Training database successfully.
+2023-09-27 / 13:40:00 : Entered 'create_table_db' method of 'DBOperations' class.
+2023-09-27 / 13:40:00 : Database Training closed successfully
+2023-09-27 / 13:40:00 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 13:40:00 : Opened Training database successfully.
+2023-09-27 / 13:40:01 : Entered 'db_connection' method of 'DBOperations' class.
+2023-09-27 / 13:40:01 : Opened Training database successfully.

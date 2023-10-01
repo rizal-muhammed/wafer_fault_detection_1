@@ -1,0 +1,2 @@
+2023-09-27 / 13:39:59 : Column length validation started!
+2023-09-27 / 13:39:59 : Column length validation is completed.

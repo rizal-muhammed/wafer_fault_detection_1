@@ -1,0 +1,4 @@
+2023-09-27 / 13:39:59 : Entered 'validate_missing_values_in_whole_column' method in 'RawDataValidation' class.
+2023-09-27 / 13:39:59 : Missing values for whole columns, is started !
+2023-09-27 / 13:40:00 : The file 'wafer_07012020_041011.csv' contain column with whole missing value.
+                        Therefore, moved to Bad_Raw directory.

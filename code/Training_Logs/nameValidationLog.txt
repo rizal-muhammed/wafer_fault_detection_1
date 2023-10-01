@@ -1,0 +1,9 @@
+2023-09-27 / 13:39:59 : Entered 'raw_file_name_validation' method of 'RawDataValidation' class.
+2023-09-27 / 13:39:59 : Valid file name. File wafer_07012020_041011.csv moved to Good_Raw
+2023-09-27 / 13:39:59 : Invalid file name. File Wafer_13012020_141000.csv moved to Bad_Raw Folder
+2023-09-27 / 13:39:59 : Invalid file name. File Wafer_08012020_120000.csv moved to Bad_Raw Folder
+2023-09-27 / 13:39:59 : Invalid file name. File Wafer_10012020_131534.csv moved to Bad_Raw Folder
+2023-09-27 / 13:39:59 : Invalid file name. File Wafer_07012020_223345.csv moved to Bad_Raw Folder
+2023-09-27 / 13:39:59 : Valid file name. File wafer_13012020_090817.csv moved to Good_Raw
+2023-09-27 / 13:39:59 : Invalid file name. File Wafer_14012020_113045.csv moved to Bad_Raw Folder
+2023-09-27 / 13:39:59 : Invalid file name. File Wafer_12012020_111213.csv moved to Bad_Raw Folder

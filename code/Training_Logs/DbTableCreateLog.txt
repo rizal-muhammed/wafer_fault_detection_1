@@ -1,0 +1,2 @@
+2023-09-27 / 13:40:00 : Entered 'create_table_db' method of 'DBOperations' class.
+2023-09-27 / 13:40:00 : Tables created successfully!

@@ -1,0 +1,2 @@
+2023-09-27 / 13:40:00 : Enetered 'insert_into_table_good_data' method in 'DBOperations' class.
+2023-09-27 / 13:40:01 : file wafer_13012020_090817.csv loaded successfully

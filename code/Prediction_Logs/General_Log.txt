@@ -1,0 +1,32 @@
+2023-09-27 / 13:47:19 : Entered 'delete_exising_good_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 13:47:19 : Entered 'delete_exising_bad_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 13:47:19 : Entered 'create_directory_for_good_bad_raw_data' method of 'RawDataValidation' class.
+2023-09-27 / 13:47:19 : Creation of Good_Raw, Bad_Raw folder is successful. 
+            Exited 'create_directory_for_good_bad_raw_data' method of 'PredictionDataValidation' class.
+2023-09-27 / 13:47:32 : Entered 'delete_exising_good_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 13:47:32 : GoodRaw directory deleted successfully!
+2023-09-27 / 13:47:32 : Entered 'move_bad_files_to_archive_bad' method of 'PredictionDataValidation' class.
+2023-09-27 / 13:47:32 : Bad files are moved to archive!
+2023-09-27 / 13:47:32 : Bad Raw Data folder deleted successfully!
+2023-09-27 / 14:20:06 : Entered 'delete_exising_good_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:06 : Entered 'delete_exising_bad_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:06 : Entered 'create_directory_for_good_bad_raw_data' method of 'RawDataValidation' class.
+2023-09-27 / 14:20:06 : Creation of Good_Raw, Bad_Raw folder is successful. 
+            Exited 'create_directory_for_good_bad_raw_data' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:12 : Entered 'delete_exising_good_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:12 : GoodRaw directory deleted successfully!
+2023-09-27 / 14:20:12 : Entered 'delete_exising_bad_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:12 : Entered 'create_directory_for_good_bad_raw_data' method of 'RawDataValidation' class.
+2023-09-27 / 14:20:12 : Creation of Good_Raw, Bad_Raw folder is successful. 
+            Exited 'create_directory_for_good_bad_raw_data' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:14 : Entered 'delete_exising_good_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:14 : GoodRaw directory deleted successfully!
+2023-09-27 / 14:20:14 : Entered 'delete_exising_bad_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:14 : Entered 'create_directory_for_good_bad_raw_data' method of 'RawDataValidation' class.
+2023-09-27 / 14:20:14 : Creation of Good_Raw, Bad_Raw folder is successful. 
+            Exited 'create_directory_for_good_bad_raw_data' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:22 : Entered 'delete_exising_good_data_training_folder' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:22 : GoodRaw directory deleted successfully!
+2023-09-27 / 14:20:22 : Entered 'move_bad_files_to_archive_bad' method of 'PredictionDataValidation' class.
+2023-09-27 / 14:20:22 : Bad files are moved to archive!
+2023-09-27 / 14:20:22 : Bad Raw Data folder deleted successfully!
